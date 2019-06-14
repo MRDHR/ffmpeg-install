@@ -1,7 +1,7 @@
 FFmpeg (Latest Git/Stable Static Builds) for GNU/Linux
 ======================================================
 
-    Script:    q3aql (q3aql@openmailbox.org)
+    Script:    q3aql (q3aql@protonmail.ch)
     Builds:    John Van Sickle (john.vansickle@gmail.com)
 
 ### How to install (ffmpeg-install):
@@ -38,7 +38,7 @@ _Note: The script are compatible with all GNU/Linux distributions._
     
 ### The fastest way to install 
 
-    1：wget https://raw.githubusercontent.com/MRDHR/ffmpeg-install/master/ffmpeg-install
+    1：wget https://raw.githubusercontent.com/q3aql/ffmpeg-install/master/ffmpeg-install
 	2：chmod a+x ffmpeg-install
 	3：./ffmpeg-install --install release
     
